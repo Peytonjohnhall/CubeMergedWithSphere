@@ -24,8 +24,8 @@ ax.set_aspect('equal')
 ax.plot(x/1000000, y/1000000, color='brown', linewidth=2)
 
 # Set the axis labels and title
-ax.set_xlabel('Radius (Millions of Feet)')
-ax.set_ylabel('Radius (Millions of Feet)')
+ax.set_xlabel('Distance (Millions of Feet)')
+ax.set_ylabel('Distance (Millions of Feet)')
 ax.set_title(r"Earth's Average Ground Level Radius at 31°46'40''N")
 
 plt.show()
