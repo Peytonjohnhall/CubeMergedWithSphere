@@ -8,7 +8,7 @@ on Mount Zion, at 31°46'40"N Latitude, in proportion with
 the radius of the earth at that given line of latitude. 
 The graph emphasizes the fact that it would not be feasible
 to enter through the gates of New Jerusalem without staircases
-connecting the perimiter of the cube's base with the earth.
+connecting the perimeter of the cube's base with the earth.
 """
 
 def plot_square(ax, color='gold'):
