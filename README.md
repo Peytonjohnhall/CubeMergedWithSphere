@@ -17,3 +17,12 @@ Note: At 31°46'40"N Latitude, where mount Zion stands, the earth's average radi
 
 Let us use latitude in visualizing the given data. Implementing algebraic functions into 
 (a) Python program(s) is an efficient method in precisely visualizing the concept of these data.
+
+If a perfect cube of this size were to merge with the earth, being an oblate spheroid, the extent in 
+which the entire perimeter of the base of the cube is elevated off the earth would make it impossible 
+to walk through the gates. That is, unless if a series of staircases or ramps were in place to provide 
+access in and out of the cube. 
+
+Therefore, this repository hypothetically explores the angles in which staircases could be in place 
+and the approximate lengths these staircases would need to be. Granted, it is assumed that the
+radius of the earth will remain almost indentical to what it currently is and always has been.
