@@ -25,4 +25,4 @@ access in and out of the cube.
 
 Therefore, this repository hypothetically explores the angles in which staircases could be in place 
 and the approximate lengths these staircases would need to be. Granted, it is assumed that the
-radius of the earth will remain almost indentical to what it currently is and always has been.
+radius of the earth will remain almost indentical to what it currently is and has been for billions of years.
