@@ -19,7 +19,7 @@ Let us use latitude in visualizing the given data. Implementing algebraic functi
 (a) Python program(s) is an efficient method in precisely visualizing the concept of these data.
 
 If a perfect cube of this size were to merge with the earth, being an oblate spheroid, the extent in 
-which the entire perimeter of the base of the cube is elevated off the earth would make it impossible 
+which the entire perimeter of the base of the cube is elevated off of the earth would make it impossible 
 to walk through the gates. That is, unless if a series of staircases or ramps were in place to provide 
 access in and out of the cube. 
 
