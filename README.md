@@ -28,5 +28,5 @@ to walk through the gates. That is, unless if a series of staircases or ramps we
 access in and out of the cube. 
 
 Therefore, this repository hypothetically explores the angles in which staircases could be in place 
-and the approximate lengths that these staircases would need to be. Granted, it is assumed that the
+and the approximate lengths that these staircases would need to be. Granted, it is assumed that the average
 radius of the earth will remain almost indentical to what it currently is and has been for billions of years.
