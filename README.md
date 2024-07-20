@@ -15,5 +15,5 @@ Psalm 118:20, 2 Esdras 13:36, Isaiah 46:13, Isaiah 60:11, Revelation 21:1, Revel
 Note: At 31°46'40"N Latitude, where mount Zion stands, the earth's average radius at ground level is approximately
 20,906,306.39764 feet or 3,959.527726825757782 miles.
 
-Let us use latitude in visualization of the given data. Implementing algebraic functions in 
+Let us use latitude in visualizing the given data. Implementing algebraic functions into 
 (a) Python program(s) is an efficient method in precisely visualizing the concept of these data.
