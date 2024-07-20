@@ -1,8 +1,12 @@
 Introduction and statement of purpose:
 
+In terms of geometry, the following passage sparks curiosity:
+
 Revelation 21:16 KJV "And the city lieth foursquare, and the length is as large as the breadth: 
 and he measured the city with the reed, twelve thousand furlongs. The length and the breadth 
 and the height of it are equal."
+
+Bible scholars James Strong and Joseph Henry Thayer translate what a "furlong" is in the Greek tongue:
 
 Furlong: στάδιον (Strong's G4712, Thayer's Greek Lexicon) "stad'-ee-on" - A measure of length 
 comprising 600 Greek feet, or 625 Roman feet, or 125 Roman paces (Pliny, h. n. 2, 23 (21), 85), 
