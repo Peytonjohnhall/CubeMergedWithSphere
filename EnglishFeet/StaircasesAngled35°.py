@@ -61,7 +61,7 @@ def plot_circle(ax, color='brown'):
     # Plot the circle
     ax.plot(x_circle, y_circle, color=color, linewidth=2)
 
-def plot_staircases(ax, color='blue'):
+def plot_staircases(ax, color='tan'):
     """
     Plots the staircases at 35° angle.
     
