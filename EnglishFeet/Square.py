@@ -28,6 +28,6 @@ ax.plot(np.array(vertices_x)/1000000, np.array(vertices_y)/1000000, color='gold'
 # Set the axis labels and title
 ax.set_xlabel('Distance (Millions of Feet)')
 ax.set_ylabel('Distance (Millions of Feet)')
-ax.set_title('2D Representation of New Jerusalem on Mount Zion')
+ax.set_title('2D Representation of New Jerusalem')
 
 plt.show()
