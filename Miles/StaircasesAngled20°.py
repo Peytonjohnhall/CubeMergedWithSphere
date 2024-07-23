@@ -63,9 +63,9 @@ def plot_staircases(ax, color='tan'):
     """
     # Define the equations for the staircases in miles
     x1 = np.linspace(-1208.79, -689.489, 100)
-    y1 = (0.364 * x1 + 690) - 439.026
+    y1 = (0.364 * x1 + 689.488364) - 439.026
     x2 = np.linspace(689.489, 1208.79, 100)
-    y2 = -(0.364 * x2 - 690) - 439.026
+    y2 = -(0.364 * x2 - 689.488364) - 439.026
 
     # Plot the piecewise lines
     ax.plot(x1, y1, color=color, linewidth=2)
