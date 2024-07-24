@@ -14,7 +14,7 @@ hence, one-eighth of a Roman mile (i. e. 606 3/4 English feet (about 15 miles le
 of a kilometer)); the space or distance of that length (A. V. a furlong).
 
 Let us assume this perfect cube merges with the earth at mount Zion (31°46'40"N 35°14'07"E) based on the following passages:
-Psalm 118:20, 2 Esdras 13:36, Isaiah 46:13, Isaiah 60:11, Revelation 21:1, Revelation 21:12-14, Revelation 21:18, and Revelation 21:25.
+Psalm 118:20, 2 Esdras 13:36, Isaiah 46:13, Isaiah 60:11, Revelation 21:1, Revelation 21:12-13, Revelation 21:18, and Revelation 21:25.
 
 Note: At 31°46'40"N Latitude, where mount Zion stands, the earth's average radius at ground level is approximately
 20,906,306.39764 English feet, or 3,959.527726825757782 miles.
