@@ -31,10 +31,10 @@ faces = [
 
 # Plotting the cube
 fig = plt.figure()
-ax = fig.add_subplot(111, projection='3d')
+ax = fig.add_subplot(111, projection="3d")
 
 # Add each face to the plot
-ax.add_collection3d(Poly3DCollection(faces, facecolors='gold', linewidths=1, edgecolors='black', alpha=.25))
+ax.add_collection3d(Poly3DCollection(faces, facecolors="gold", linewidths=1, edgecolors="black", alpha=.25))
 
 # Set the limits of the plot
 ax.set_xlim([0, side_length])
@@ -42,13 +42,12 @@ ax.set_ylim([0, side_length])
 ax.set_zlim([0, side_length])
 
 # Set labels
-ax.set_xlabel('Length (furlongs)')
-ax.set_ylabel('Breadth (furlongs)')
-ax.set_zlabel('Height (furlongs)')
+ax.set_xlabel("Length (furlongs)")
+ax.set_ylabel("Breadth (furlongs)")
+ax.set_zlabel("Height (furlongs)")
 
 # Set title
-ax.set_title('Geometric Structure of New Jerusalem')
+ax.set_title("Geometric Structure of New Jerusalem")
 
 # Show the plot
 plt.show()
-
