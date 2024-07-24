@@ -42,9 +42,9 @@ ax.set_ylim([0, side_length])
 ax.set_zlim([0, side_length])
 
 # Set labels
-ax.set_xlabel("Length (furlongs)")
-ax.set_ylabel("Breadth (furlongs)")
-ax.set_zlabel("Height (furlongs)")
+ax.set_xlabel("Length (Furlongs)")
+ax.set_ylabel("Breadth (Furlongs)")
+ax.set_zlabel("Height (Furlongs)")
 
 # Set title
 ax.set_title("Geometric Structure of New Jerusalem")
