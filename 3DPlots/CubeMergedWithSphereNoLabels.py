@@ -70,6 +70,18 @@ ax.set_xticklabels([])
 ax.set_yticklabels([])
 ax.set_zticklabels([])
 
+# Set background color to white and remove grid lines
+ax.w_xaxis.line.set_color((1.0, 1.0, 1.0, 0.0))
+ax.w_yaxis.line.set_color((1.0, 1.0, 1.0, 0.0))
+ax.w_zaxis.line.set_color((1.0, 1.0, 1.0, 0.0))
+ax.w_xaxis.pane.set_edgecolor((1.0, 1.0, 1.0, 0.0))
+ax.w_yaxis.pane.set_edgecolor((1.0, 1.0, 1.0, 0.0))
+ax.w_zaxis.pane.set_edgecolor((1.0, 1.0, 1.0, 0.0))
+ax.w_xaxis.pane.set_alpha(0)
+ax.w_yaxis.pane.set_alpha(0)
+ax.w_zaxis.pane.set_alpha(0)
+ax.grid(False)
+
 # Set title
 ax.set_title("3D Representation of New Jerusalem on Mount Zion")
 
